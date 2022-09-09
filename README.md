@@ -32,6 +32,7 @@ Most adult tags have been deliberately left out because there are just _too many
   "associations": ["Siblings", "Family", "Brother", "Sister", "Twin", "Heirs"],
   "category": "Family",
   "name": "Sibling Rivalry",
-  "parent": "Rivalry"
+  "parent": "Rivalry",
+  "description": "Competition or animosity among siblings, regardless of blood-relation. Reasons may include preferential treatment, the order of succession or inheritance, literal enforced competition, or just petty jealousy."
 },
 ```
