@@ -710,6 +710,11 @@
     "name": "Homosexuality",
     "parent": "LGTB+"
   },
+  "humanized": {
+    "category": "Races",
+    "description": "Someone or something has literally become human, either as part of the story or just the general setting, such as animals turned into people. Not to be confused with anthropomorphism.",
+    "name": "Humanized"
+  },
   "humanExperimentation": {
     "category": "Tropes",
     "name": "Human Experimentation"
@@ -734,9 +739,9 @@
     "category": "Creatures",
     "name": "Insects"
   },
-  "insectsTraits": {
+  "insectTraits": {
     "category": "Characters",
-    "name": "Insects Traits"
+    "name": "Insect Traits"
   },
   "interdimensionalTravel": {
     "category": "Tropes",
@@ -945,12 +950,18 @@
     "category": "Relationships",
     "name": "Platonic Love"
   },
+  "polyamory": {
+    "category": "Relationships",
+    "name": "Polyamory"
+  },
   "polycule": {
     "category": "Relationships",
+    "parent": "Polyamory",
     "name": "Polycule"
   },
   "polygamy": {
     "category": "Relationships",
+    "parent": "Polyamory",
     "name": "Polygamy"
   },
   "pragmaticProtagonist": {
@@ -1095,7 +1106,7 @@
   },
   "sex": {
     "category": "Relationships",
-    "description": "Discussions or depictions of sexual intercourse and adjacent topics in decent detail, not exciting enough to qualify as Erotica and certainly not explicit enough for Smut.",
+    "description": "Discussions or depictions of sexual intercourse and adjacent topics in decent detail, but not arousing enough to qualify as Erotica and not explicit enough for Smut.",
     "name": "Sex"
   },
   "shapeshifters": {

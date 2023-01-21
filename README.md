@@ -1,6 +1,14 @@
-# Fictioneer Taxonomy Project 0.1
+# Fictioneer Taxonomy Project
+
+The Fictioneer Taxonomy Project is an attempt to make taxonomies for web fictions more conform. This may prove useful to services or tools which offer searchable lists aggregated from different sites. While common terms such as "science fiction" or "fantasy" are well established, derived and associated terms can differ wildly in both spelling and meaning.
+
+This is part of the [Fictioneer](https://github.com/Tetrakern/fictioneer) theme for WordPress.
+
+
+
 
 ## Genres
+* some genres can be tags as well, like War
 
 ### How to properly use genres
 Genres are immediately understandable categorizations of stories in regards to content, technique, tone, or sometimes length (e.g. short stories). They are broad in the sense that no one story ever needs to be alike, allowing an infinite number of variations and combinations of tropes — although they usually follow trends. Therefore your choice of genres should describe your story as a whole, not just single occurrences.

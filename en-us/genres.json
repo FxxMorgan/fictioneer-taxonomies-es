@@ -29,6 +29,10 @@
 		"name": "Bisexual",
 		"parent": "LGBT+"
 	},
+	"bodyHorror": {
+		"name": "Body Horror",
+		"parent": "Horror"
+	},
 	"boysLove": {
 		"name": "Boys Love",
 		"parent": "LGBT+",
