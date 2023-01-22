@@ -1,4 +1,4 @@
-# Fictioneer Taxonomy Project V0.1
+# Fictioneer Taxonomy Project
 
 The Fictioneer Taxonomy Project is an attempt to make taxonomies for web fictions more conform. This may prove useful to services or tools which offer searchable lists aggregated from different sites.
 
