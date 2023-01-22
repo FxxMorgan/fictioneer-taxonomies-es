@@ -8,7 +8,7 @@ This is part of the [Fictioneer](https://github.com/Tetrakern/fictioneer) theme 
 Genres are immediately understandable categories of stories in regards to content, technique, tone, or sometimes length (e.g. short stories). They are broad in the sense that no one story ever needs to be alike, allowing an infinite number of variations and combinations of tropes — although they usually follow trends.
 
 ## Tags
-Tags are keywords or terms associated with commonly agreed upon trappings and tropes. They help with describing, browsing, and searching stories. Not to be confused with _genres_, such as "Fantasy" or "Science Fiction" meant for broad categorization, or _fandoms_ which situate a story within a particular intellectual property, such as "Stargate" or the "Marvel Cinematic Universe".
+Tags are keywords associated with commonly agreed upon trappings and tropes. They help with describing, browsing, and searching stories. Not to be confused with _genres_, such as "Fantasy" or "Science Fiction" meant for broad categorization, or _fandoms_ which situate a story within a particular intellectual property, such as "Stargate" or the "Marvel Cinematic Universe".
 
 This list is incomplete and always will be incomplete, serving as vocabulary blueprint to add your own tags as needed.
 
