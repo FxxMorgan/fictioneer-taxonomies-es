@@ -10,7 +10,7 @@ Genres are immediately understandable categories of stories in regards to conten
 ## Tags
 Tags are keywords associated with commonly agreed upon trappings and tropes. They help describing, browsing, and searching stories. Not to be confused with _genres_, such as "Science Fiction" meant for broad categorization, or _fandoms_ which situate a story within a particular intellectual property, such as "Stargate".
 
-This list is incomplete and always will be incomplete, serving as vocabulary blueprint to add your own tags as needed.
+This list is incomplete and always will be incomplete, serving as vocabulary templates for your own.
 
 ### Wait, where is all the smut?
 Most adult tags have been deliberately left out because there are just _too many of them_. Half the list would be nothing but fetishes, kinks, and practices. And let’s be real, do you really need assistance to describe your smut? After years on the Internet, you cannot tell?
