@@ -790,9 +790,13 @@
     "category": ["Tropes"],
     "name": "Level System"
   },
+  "lgb": {
+    "category": ["Features"],
+    "name": "LGB"
+  },
   "lgbt": {
     "category": ["Features"],
-    "name": "LGTB+"
+    "name": "LGBT+"
   },
   "lostTechnology": {
     "category": ["Technology"],
