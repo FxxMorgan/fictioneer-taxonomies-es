@@ -1110,8 +1110,8 @@
   },
   "sex": {
     "category": ["Relationships"],
-    "description": "Discussions or depictions of sexual intercourse and adjacent topics in decent detail, but not arousing enough to qualify as Erotica and not explicit enough for Smut.",
-    "name": "Sex"
+    "name": "Sex",
+    "description": "Discussions or portrayals of sexual activities, presented in a detailed but discreet manner. Not arousing enough to qualify as Erotica and not explicit enough for Smut."
   },
   "shapeshifters": {
     "category": ["Races"],
