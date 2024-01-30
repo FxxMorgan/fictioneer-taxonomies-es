@@ -720,7 +720,7 @@
     "name": "Human Experimentation"
   },
   "humor": {
-    "category": ["Features"],
+    "category": ["Themes"],
     "name": "Humor"
   },
   "immortality": {
@@ -791,11 +791,11 @@
     "name": "Level System"
   },
   "lgb": {
-    "category": ["Features"],
+    "category": ["Themes"],
     "name": "LGB"
   },
   "lgbt": {
-    "category": ["Features"],
+    "category": ["Themes"],
     "name": "LGBT+"
   },
   "lostTechnology": {
@@ -811,7 +811,7 @@
     "name": "Love Triangle"
   },
   "magic": {
-    "category": ["Features"],
+    "category": ["Themes"],
     "name": "Magic"
   },
   "magicalGirls": {
@@ -895,7 +895,7 @@
     "name": "Naval Warfare"
   },
   "necromancy": {
-    "category": ["Features"],
+    "category": ["Themes"],
     "name": "Necromancy"
   },
   "nobility": {
@@ -911,7 +911,7 @@
     "name": "Nuclear Option"
   },
   "nudity": {
-    "category": ["Features"],
+    "category": ["Themes"],
     "name": "Nudity"
   },
   "obsessiveLove": {
@@ -993,11 +993,11 @@
     "name": "Prostitution"
   },
   "psionics": {
-    "category": ["Features"],
+    "category": ["Themes"],
     "name": "Psionics"
   },
   "pyromancy": {
-    "category": ["Features"],
+    "category": ["Themes"],
     "name": "Pyromancy"
   },
   "racism": {
@@ -1209,7 +1209,7 @@
     "name": "Technological Advancement"
   },
   "tentacles": {
-    "category": ["Features"],
+    "category": ["Themes"],
     "name": "Tentacles"
   },
   "terrorism": {
@@ -1221,7 +1221,7 @@
     "name": "Time Loop"
   },
   "timeSkip": {
-    "category": ["Features"],
+    "category": ["Tropes"],
     "name": "Time Skip"
   },
   "timeTravel": {
@@ -1270,7 +1270,7 @@
     "name": "Transmigration"
   },
   "travel": {
-    "category": ["Features"],
+    "category": ["Themes"],
     "name": "Travel"
   },
   "twins": {
