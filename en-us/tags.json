@@ -1066,7 +1066,8 @@
   },
   "rivalry": {
     "category": ["Themes"],
-    "name": "Rivalry"
+    "name": "Rivalry",
+    "description": "Competitive relationships often focused on a desire to outdo, outperform, or surpass another individual or group. Can range from friendly competition to intense antagonism."
   },
   "roadTrip": {
     "category": ["Tropes"],
@@ -1126,7 +1127,7 @@
     "category": ["Family"],
     "name": "Sibling Rivalry",
     "parent": "Rivalry",
-    "description": "Intense competition or conflict among siblings, often stemming from jealousy, desire for parental attention, inheritance issues, or differing achievements. This can range from mild rivalry to deep-seated animosity."
+    "description": "Intense competition or conflict among siblings, often stemming from jealousy, desire for parental attention, inheritance issues, or differing achievements. Can range from mild rivalry to deep-seated animosity."
   },
   "siblings": {
     "category": ["Family"],
