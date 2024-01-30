@@ -79,7 +79,8 @@
     "name": "Dungeon"
   },
   "erotica": {
-    "name": "Erotica"
+    "name": "Erotica",
+		"description": "Narratives primarily focused on stimulating sexual arousal and romantic desire. Characterized by explicit sexual scenes and themes, Erotica delves into intimate and sensuous experiences, often with an emphasis on emotional connections."
   },
   "espionage": {
     "name": "Espionage"

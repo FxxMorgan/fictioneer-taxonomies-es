@@ -476,6 +476,11 @@
     "category": ["Industriousness"],
     "name": "Engineering"
   },
+  "erotica": {
+    "category": ["Relationships"],
+    "name": "Erotica",
+    "description": "Explicit sexual and romantic elements intended to arouse, highlighting scenes and themes that focus on the sensual and intimate aspects of sexuality."
+  },
   "europeanSetting": {
     "category": ["Settings"],
     "name": "European Setting"
