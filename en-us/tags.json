@@ -1117,7 +1117,7 @@
   "sex": {
     "category": ["Relationships"],
     "name": "Sex",
-    "description": "Discussions or portrayals of sexual activities, presented in a detailed but discreet manner. Not arousing enough to qualify as Erotica and not explicit enough for Smut."
+    "description": "Discussions or portrayals of sexual activities, presented in a detailed but discreet manner. Not arousing enough to qualify as Erotica and not graphic enough for Smut."
   },
   "shapeshifters": {
     "category": ["Races"],
@@ -1152,7 +1152,8 @@
   },
   "smut": {
     "category": ["Relationships"],
-    "name": "Smut"
+    "name": "Smut",
+    "description": "Graphic and detailed sexual scenes, emphasizing physical pleasure over emotional or romantic connections, often catering to various fantasies and desires."
   },
   "socialism": {
     "category": ["Politics"],
