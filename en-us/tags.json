@@ -1,21 +1,21 @@
 {
   "60sSetting": {
-    "category": ["Likenesses"],
+    "category": ["Likenesses", "Settings"],
     "name": "60s Setting",
     "description": "Captures the essence of the 1960s with its psychedelic patterns, mod fashion, evolution of rock music, and pivotal social movements, reflecting the era’s innovative and transformative spirit."
   },
   "70sSetting": {
-    "category": ["Likenesses"],
+    "category": ["Likenesses", "Settings"],
     "name": "70s Setting",
     "description": "Evokes the 1970s through disco culture, bell-bottoms, funk and soul music including the rise of heavy metal, pop art and vibrant colors, representing the era’s flamboyant and dynamic spirit."
   },
   "80sSetting": {
-    "category": ["Likenesses"],
+    "category": ["Likenesses", "Settings"],
     "name": "80s Setting",
     "description": "Channels the 1980s through neon colors, synthesizer-driven pop and rock music, iconic fashion trends like shoulder pads and leg warmers, and the advent of arcade gaming, symbolizing the era’s bold and innovative energy."
   },
   "90sSetting": {
-    "category": ["Likenesses"],
+    "category": ["Likenesses", "Settings"],
     "name": "90s Setting",
     "description": "Reflects the 1990s with its grunge and hip-hop influences, casual and sports-inspired fashion, emergence of digital technology, and a sense of youthful rebellion, conveying the era’s unique blend of cynicism and optimism."
   },
@@ -353,7 +353,7 @@
     "name": "Cyborgs"
   },
   "darkAges": {
-    "category": ["Likenesses"],
+    "category": ["Likenesses", "Settings"],
     "name": "Dark Ages"
   },
   "deathGames": {
@@ -665,7 +665,7 @@
     "name": "Gods"
   },
   "goldenTwenties": {
-    "category": ["Likenesses"],
+    "category": ["Likenesses", "Settings"],
     "name": "Golden Twenties"
   },
   "gore": {
@@ -1316,7 +1316,7 @@
     "name": "Vampires"
   },
   "victorianEra": {
-    "category": ["Likenesses"],
+    "category": ["Likenesses", "Settings"],
     "name": "Victorian Era"
   },
   "villainProtagonist": {
