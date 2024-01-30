@@ -27,7 +27,7 @@
   },
   "bisexual": {
     "name": "Bisexual",
-    "parent": "LGBT+"
+    "parent": "LGB"
   },
   "bodyHorror": {
     "name": "Body Horror",
@@ -35,7 +35,7 @@
   },
   "boysLove": {
     "name": "Boys Love",
-    "parent": "LGBT+",
+    "parent": "LGB",
     "aliasOf": "Gay"
   },
   "cassetteFuturism": {
@@ -92,11 +92,11 @@
   },
   "gay": {
     "name": "Gay",
-    "parent": "LGBT+"
+    "parent": "LGB"
   },
   "girlslove": {
     "name": "Girls Love",
-    "parent": "LGBT+",
+    "parent": "LGB",
     "aliasOf": "Lesbian"
   },
   "gothic": {
@@ -123,10 +123,14 @@
   },
   "lesbian": {
     "name": "Lesbian",
-    "parent": "LGBT+"
+    "parent": "LGB"
+  },
+	"lgb": {
+    "name": "LGB"
   },
   "lgbt": {
-    "name": "LGBT+"
+    "name": "LGBT+",
+    "parent": "LGB"
   },
   "litRpg": {
     "name": "LitRPG"
