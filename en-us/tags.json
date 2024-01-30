@@ -21,7 +21,8 @@
   },
   "abduction": {
     "category": ["Themes"],
-    "name": "Abduction"
+    "name": "Abduction",
+    "description": "Characters are taken against their will by force or cunning. Indicates plots that center around kidnappings, often leading to dramatic, suspenseful, or action-packed sequences."
   },
   "absentParents": {
     "category": ["Family"],
