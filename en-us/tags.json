@@ -191,7 +191,7 @@
   "bisexuality": {
     "category": ["Relationships"],
     "name": "Bisexuality",
-    "parent": "LGTB+"
+    "parent": "LGB"
   },
   "bisexualProtagonist": {
     "category": ["Protagonist"],
@@ -209,7 +209,8 @@
   "boysLove": {
     "aliasOf": "Gay",
     "category": ["Relationships"],
-    "name": "Boys Love"
+    "name": "Boys Love",
+    "parent": "Homosexuality"
   },
   "boysLoveSubplot": {
     "category": ["Relationships"],
@@ -636,7 +637,8 @@
   "girlsLove": {
     "aliasOf": "Lesbian",
     "category": ["Relationships"],
-    "name": "Girls Love"
+    "name": "Girls Love",
+    "parent": "Homosexuality"
   },
   "girlsLoveSubplot": {
     "category": ["Relationships"],
@@ -718,7 +720,7 @@
   "homosexuality": {
     "category": ["Relationships"],
     "name": "Homosexuality",
-    "parent": "LGTB+"
+    "parent": "LGB"
   },
   "humanized": {
     "category": ["Races"],
@@ -806,7 +808,8 @@
   },
   "lgbt": {
     "category": ["Themes"],
-    "name": "LGBT+"
+    "name": "LGBT+",
+    "parent": "LGB"
   },
   "lostTechnology": {
     "category": ["Technology"],
@@ -1255,7 +1258,7 @@
   "transgender": {
     "category": ["Characters"],
     "name": "Transgender",
-    "parent": "LGTB+"
+    "parent": "LGBT+"
   },
   "transgenderLoveSubplot": {
     "category": ["Relationships"],
@@ -1382,7 +1385,8 @@
   "yaoi": {
     "aliasOf": "Gay",
     "category": ["Relationships"],
-    "name": "Yaoi"
+    "name": "Yaoi",
+    "parent": "Homosexuality"
   },
   "youngerThanTheyLook": {
     "category": ["Tropes"],
@@ -1391,7 +1395,8 @@
   "yuri": {
     "aliasOf": "Lesbian",
     "category": ["Relationships"],
-    "name": "Yuri"
+    "name": "Yuri",
+    "parent": "Homosexuality"
   },
   "zeroToHero": {
     "category": ["Tropes"],
