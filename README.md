@@ -38,3 +38,14 @@ Most adult tags have been deliberately left out because there are just _too many
   "description": "Competition or animosity among siblings, regardless of blood-relation. Reasons may include preferential treatment, the order of succession or inheritance, literal enforced competition, or just petty jealousy."
 }
 ```
+
+| Key | Type | Value Explanation
+| :--- | :---: | :---
+| aliasOf | string | If the term is often used as synonym for another.
+| association | string[] | Just for ease of grouping, filtering, and sorting.
+| category | string[] | Just for ease of grouping, filtering, and sorting.
+| name | string | Nice name.
+| parent | string | Nice name of broader parent term.
+| description | string | What the term conveys. Might not be filled out yet.
+
+Not all keys may be present or necessary.
