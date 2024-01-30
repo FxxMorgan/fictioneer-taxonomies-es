@@ -82,11 +82,13 @@
   },
   "allBoysSchool": {
     "category": ["Settings"],
-    "name": "All-Boys School"
+    "name": "All-Boys School",
+    "parent": "School"
   },
   "allGirlsSchool": {
     "category": ["Settings"],
-    "name": "All-Girls School"
+    "name": "All-Girls School",
+    "parent": "School"
   },
   "alternateWorld": {
     "category": ["Settings"],
@@ -204,7 +206,8 @@
   },
   "boardingSchool": {
     "category": ["Settings"],
-    "name": "Boarding School"
+    "name": "Boarding School",
+    "parent": "School"
   },
   "boysLove": {
     "aliasOf": "Gay",
@@ -1101,6 +1104,10 @@
   "sarcasticProtagonist": {
     "category": ["Protagonist"],
     "name": "Sarcastic Protagonist"
+  },
+  "school": {
+    "category": ["Settings"],
+    "name": "School"
   },
   "scientists": {
     "category": ["Professions"],
