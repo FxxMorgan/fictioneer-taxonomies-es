@@ -1122,7 +1122,7 @@
     "name": "Sharing a Body"
   },
   "siblingRivalry": {
-    "associations": ["Siblings", "Family", "Brother", "Sister", "Twin", "Heirs"],
+    "association": ["Siblings", "Family", "Brother", "Sister", "Twin", "Heirs"],
     "category": ["Family"],
     "name": "Sibling Rivalry",
     "parent": "Rivalry",

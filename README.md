@@ -31,7 +31,7 @@ Most adult tags have been deliberately left out because there are just _too many
 ```json
 "siblingRivalry": {
   "aliasOf": "",
-  "associations": ["Siblings", "Family", "Brother", "Sister", "Twin", "Heirs"],
+  "association": ["Siblings", "Family", "Brother", "Sister", "Twin", "Heirs"],
   "category": ["Family"],
   "name": "Sibling Rivalry",
   "parent": "Rivalry",
