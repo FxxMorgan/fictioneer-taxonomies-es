@@ -35,7 +35,7 @@ Most adult tags have been deliberately left out because there are just _too many
   "category": ["Family"],
   "name": "Sibling Rivalry",
   "parent": "Rivalry",
-  "description": "Competition or animosity among siblings, regardless of blood-relation. Reasons may include preferential treatment, the order of succession or inheritance, literal enforced competition, or just petty jealousy."
+  "description": "Intense competition or conflict among siblings, often stemming from jealousy, desire for parental attention, inheritance issues, or differing achievements. This can range from mild rivalry to deep-seated animosity."
 }
 ```
 
