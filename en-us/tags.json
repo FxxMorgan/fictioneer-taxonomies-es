@@ -334,7 +334,8 @@
   },
   "crafting": {
     "category": ["Industriousness"],
-    "name": "Crafting"
+    "name": "Crafting",
+    "description": "The creation of items is key. Characters engage in industrious activities to invent and craft tools, weapons, or other objects that aid in their journey or solve problems."
   },
   "criminalOrganizations": {
     "category": ["Society"],
