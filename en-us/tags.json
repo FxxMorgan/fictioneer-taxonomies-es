@@ -484,7 +484,8 @@
   },
   "engineering": {
     "category": ["Industriousness"],
-    "name": "Engineering"
+    "name": "Engineering",
+    "description": "Creative problem-solving through engineering principles and techniques. Characters apply scientific and mathematical expertise to design, build, or improve structures, machinery, or systems as means to advance the story."
   },
   "erotica": {
     "category": ["Relationships"],
