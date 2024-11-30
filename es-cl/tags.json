@@ -1,0 +1,2110 @@
+{
+    "60sSetting": {
+        "category": [
+            "Favoritos",
+            "Ajustes"
+        ],
+        "name": "60s Ajuste",
+        "descripción": "Captura la esencia de los años 60 con sus estampados psicodélicos, la moda mod, la evolución de la música rock y los movimientos sociales fundamentales, reflejando el espíritu innovador y transformador de la época."    },
+    "70sSetting": {
+        "category": [
+            "Favoritos",
+            "Ajustes"
+        ],
+        "name": "Entorno de los 70",
+        "description": "Evoca los años 70 a través de la cultura disco, los pantalones de campana, la música funk y soul, incluyendo el auge del heavy metal, el arte pop y los colores vibrantes, representando el espíritu extravagante y dinámico de la época."
+
+    },
+    "80sSetting": {
+        "category": [
+            "Favoritos",
+            "Ajustes"
+        ],
+        "name": "Entorno de los 80",
+        "description": "Canaliza la década de 1980 a través de los colores de neón, la música pop y rock impulsada por sintetizadores, tendencias de moda icónicas como las hombreras y los calentadores, y la llegada de los juegos arcade, que simbolizan la energía audaz e innovadora de la época."
+    },
+    "90sSetting": {
+        "category": [
+            "Favoritos",
+            "Ajustes"
+        ],
+        "name": "Entorno de los 90",
+        "description": "Refleja la década de 1990 con sus influencias del grunge y el hip-hop, la moda informal y deportiva, la aparición de la tecnología digital y un sentimiento de rebeldía juvenil, transmitiendo la mezcla única de cinismo y optimismo de la época."
+    },
+    "abduction": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Secuestro",
+        "description": "Los personajes son secuestrados contra su voluntad por la fuerza o con astucia. Indica tramas que giran en torno a secuestros, a menudo con secuencias dramáticas, de suspense o llenas de acción."
+    },
+    "absentParents": {
+        "category": [
+            "Familia"
+        ],
+        "name": "Padres ausentes"
+    },
+    "absolutism": {
+        "category": [
+            "Política"
+        ],
+        "name": "Absolutismo"
+    },
+    "abuse": {
+        "category": [
+            "Disparadores"
+        ],
+        "name": "Abuso"
+    },
+    "academy": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Academia"
+    },
+    "addiction": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Adicción"
+    },
+    "adolescence": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Adolescence"
+    },
+    "adventurers": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Aventureros"
+    },
+    "aerialWarfare": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Guerra aérea"
+    },
+    "ageProgression": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Progresión de la edad"
+    },
+    "ageRegression": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Regresión por edad"
+    },
+    "airships": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Dirigibles"
+    },
+    "alchemy": {
+        "category": [
+            "Laboriosidad"
+        ],
+        "name": "Alquimia"
+    },
+    "alienCreatures": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Criaturas alienígenas"
+    },
+    "aliens": {
+        "category": [
+            "razas"
+        ],
+        "name": "Extraterrestres"
+    },
+    "allBoysSchool": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Escuela masculina",
+        "parent": "Escuela"
+    },
+    "allGirlsSchool": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Escuela femenina",
+        "parent": "Escuela"
+    },
+    "alternateWorld": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Mundo alternativo"
+    },
+    "amnesia": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Amnesia"
+    },
+    "anachronisms": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Anacronismos"
+    },
+    "anarchy": {
+        "category": [
+            "Política"
+        ],
+        "name": "Anarquía"
+    },
+    "ancientTimes": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Antigüedad"
+    },
+    "androgynousProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista andrógino"
+    },
+    "androgyny": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Androginia"
+    },
+    "androids": {
+        "category": [
+            "razas"
+        ],
+        "name": "Androides"
+    },
+    "angels": {
+        "category": [
+            "razas"
+        ],
+        "name": "Ángeles"
+    },
+    "angst": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Angustia"
+    },
+    "animalEars": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Orejas de animal"
+    },
+    "animals": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Animales"
+    },
+    "animalTraits": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Rasgos animales"
+    },
+    "animeManga": {
+        "category": [
+            "Favoritos"
+        ],
+        "name": "Anime y manga"
+    },
+    "antiHero": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Anti-Héroe"
+    },
+    "antiVillain": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Antivillanos"
+    },
+    "aristocracy": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Aristocracia"
+    },
+    "artifacts": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Artefactos"
+    },
+    "artificialIntelligence": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Inteligencia artificial"
+    },
+    "assassins": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Asesinos"
+    },
+    "augmentations": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Aumenta"
+    },
+    "augmentedReality": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Realidad aumentada"
+    },
+    "autism": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Autismo"
+    },
+    "battleRoyal": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Batalla Real"
+    },
+    "beastkin": {
+        "category": [
+            "razas"
+        ],
+        "name": "Beastkin"
+    },
+    "bisexuality": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Bisexualidad",
+        "parent": "LGB"
+    },
+    "bisexualProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Bisexual Protagonist",
+        "parent": "Bisexualidad"
+    },
+    "bloodSports": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Deportes de sangre"
+    },
+    "boardingSchool": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Internado",
+        "parent": "Escuela"
+    },
+    "boysLove": {
+        "aliasOf": "Gay",
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Boys Love",
+        "parent": "Homosexualidad"
+    },
+    "boysLoveSubplot": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Subtrama amorosa masculina",
+        "parent": "Gay"
+    },
+    "brainwashing": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Lavado de cerebro"
+    },
+    "brokenEngagement": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Compromiso roto"
+    },
+    "brutality": {
+        "category": [
+            "Disparadores"
+        ],
+        "name": "Brutalidad"
+    },
+    "bullying": {
+        "category": [
+            "Disparadores"
+        ],
+        "name": "Acoso escolar"
+    },
+    "businessManagement": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Gestión empresarial"
+    },
+    "cartoon": {
+        "category": [
+            "Favoritos"
+        ],
+        "name": "Dibujos animados"
+    },
+    "catgirls": {
+        "category": [
+            "razas"
+        ],
+        "name": "Catgirls"
+    },
+    "characterDeath": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Muerte del personaje"
+    },
+    "characterGrowth": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Crecimiento del carácter"
+    },
+    "charismaticProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista carismático"
+    },
+    "cheats": {
+        "category": [
+            "Tropes"
+        ],
+        "name": "Trucos"
+    },
+    "childAbuse": {
+        "category": [
+            "Disparadores"
+        ],
+        "name": "Maltrato infantil"
+    },
+    "childcare": {
+        "category": [
+            "Familia"
+        ],
+        "name": "Guardería"
+    },
+    "childhoodLove": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Amor de infancia"
+    },
+    "childProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Niño protagonista"
+    },
+    "coldProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista frío"
+    },
+    "collectiveUnconscious": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Inconsciente colectivo"
+    },
+    "collegeUniversity": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Colegio / Universidad"
+    },
+    "comics": {
+        "category": [
+            "Favoritos"
+        ],
+        "name": "Cómics"
+    },
+    "comingOfAge": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "La mayoría de edad"
+    },
+    "communism": {
+        "category": [
+            "Política"
+        ],
+        "name": "Comunismo"
+    },
+    "conspiracies": {
+        "category": [
+            "Política"
+        ],
+        "name": "Conspiracies"
+    },
+    "contracts": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Contratos"
+    },
+    "cooking": {
+        "category": [
+            "Laboriosidad"
+        ],
+        "name": "Cocinar"
+    },
+    "corporations": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Empresas"
+    },
+    "corporatocracy": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Corporatocracia"
+    },
+    "corruption": {
+        "category": [
+            "Política"
+        ],
+        "name": "Corrupción"
+    },
+    "cosmetics": {
+        "category": [
+            "Moda"
+        ],
+        "name": "Cosméticos"
+    },
+    "crafting": {
+        "category": [
+            "Laboriosidad"
+        ],
+        "name": "Elaboración",
+        "description": "La creación de objetos es clave. Los personajes se dedican a actividades laboriosas para inventar y fabricar herramientas, armas u otros objetos que les ayuden en su viaje o a resolver problemas."
+    },
+    "criminalOrganizations": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Organizaciones delictivas"
+    },
+    "criminalProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Criminal Protagonist"
+    },
+    "cruelty": {
+        "category": [
+            "Disparadores"
+        ],
+        "name": "Crueldad"
+    },
+    "cyborgs": {
+        "category": [
+            "razas"
+        ],
+        "name": "Cyborgs"
+    },
+    "darkAges": {
+        "category": [
+            "Favoritos",
+            "Ajustes"
+        ],
+        "name": "Edad Media"
+    },
+    "deathGames": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Juegos de la muerte"
+    },
+    "delinquents": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Delincuentes"
+    },
+    "demigodProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista semidiós"
+    },
+    "demigods": {
+        "category": [
+            "razas"
+        ],
+        "name": "Semidioses"
+    },
+    "demiHumanProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista semihumano"
+    },
+    "demiHumans": {
+        "category": [
+            "razas"
+        ],
+        "name": "Demi-humanos"
+    },
+    "democracy": {
+        "category": [
+            "Política"
+        ],
+        "name": "Democracia"
+    },
+    "demonLord": {
+        "category": [
+            "Tropos"
+        ],
+        "description": "Un poderoso demonio o ser sobrenatural, que a menudo gobierna su especie y se opone a los héroes. Su presencia suele tener efectos negativos en el mundo.",
+        "name": "Señor de los Demonios"
+    },
+    "demons": {
+        "category": [
+            "razas"
+        ],
+        "name": "Demonios"
+    },
+    "desert": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Desierto"
+    },
+    "devils": {
+        "category": [
+            "razas"
+        ],
+        "name": "Diablos"
+    },
+    "dictatorship": {
+        "category": [
+            "Política"
+        ],
+        "name": "Dictadura"
+    },
+    "dinosaurs": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Dinosaurios"
+    },
+    "disabilities": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Discapacidades"
+    },
+    "disabledProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista discapacitado"
+    },
+    "discrimination": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Discriminación"
+    },
+    "doomedProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista condenado"
+    },
+    "dotingParents": {
+        "category": [
+            "Familia"
+        ],
+        "name": "Padres cariñosos"
+    },
+    "dragons": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Dragones"
+    },
+    "dreams": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Sueños"
+    },
+    "drugs": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Drogas"
+    },
+    "dungeonBuilding": {
+        "category": [
+            "Laboriosidad"
+        ],
+        "name": "Construcción de mazmorras"
+    },
+    "dungeonCrawling": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Rastreo de mazmorras"
+    },
+    "dungeonMaster": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Maestro de mazmorras"
+    },
+    "dwarves": {
+        "category": [
+            "razas"
+        ],
+        "name": "Enanos"
+    },
+    "dystopian": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Distopía"
+    },
+    "easyGoingLife": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "La vida fácil"
+    },
+    "elves": {
+        "category": [
+            "razas"
+        ],
+        "name": "Elfos"
+    },
+    "empires": {
+        "category": [
+            "Política"
+        ],
+        "name": "Imperios"
+    },
+    "encyclopaedicKnowledge": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Conocimientos enciclopédicos"
+    },
+    "encyclopediaAccess": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Acceso a la enciclopedia"
+    },
+    "engineering": {
+        "category": [
+            "Laboriosidad"
+        ],
+        "name": "Ingeniería",
+        "description": "Resolución creativa de problemas mediante principios y técnicas de ingeniería. Los personajes aplican sus conocimientos científicos y matemáticos para diseñar, construir o mejorar estructuras, maquinaria o sistemas con el fin de hacer avanzar la historia."
+    },
+    "erotica": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Erótico",
+        "description": "Elementos sexuales y románticos explícitos destinados a excitar, destacando escenas y temas centrados en los aspectos sensuales e íntimos de la sexualidad."
+    },
+    "europeanSetting": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Entorno europeo"
+    },
+    "evilOrganizations": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Organizaciones malignas"
+    },
+    "evolution": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Evolución"
+    },
+    "exploration": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Exploración"
+    },
+    "extraterritoriality": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Extraterritorialidad"
+    },
+    "fairies": {
+        "category": [
+            "razas"
+        ],
+        "name": "Hadas"
+    },
+    "fairytale": {
+        "category": [
+            "Favoritos"
+        ],
+        "name": "Cuento de hadas"
+    },
+    "fakeRelationship": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Relación falsa"
+    },
+    "familiars": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Familiars"
+    },
+    "family": {
+        "category": [
+            "Familia"
+        ],
+        "name": "Familia"
+    },
+    "famousParents": {
+        "category": [
+            "Familia"
+        ],
+        "name": "Padres famosos"
+    },
+    "fantasticFallout": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Caída fantástica"
+    },
+    "fantasyCreatures": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Criaturas fantásticas"
+    },
+    "fantasyRaces": {
+        "category": [
+            "razas"
+        ],
+        "name": "razas de fantasía"
+    },
+    "fashion": {
+        "category": [
+            "Moda"
+        ],
+        "name": "Moda"
+    },
+    "femaleProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista femenina"
+    },
+    "feudalism": {
+        "category": [
+            "Política"
+        ],
+        "name": "Feudalismo"
+    },
+    "wasteland": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Yermo"
+    },
+    "forbiddenLove": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Amor prohibido"
+    },
+    "friendship": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Amistad"
+    },
+    "furry": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Peluche"
+    },
+    "futureTimes": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Tiempos futuros"
+    },
+    "gambling": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Juego"
+    },
+    "gameElements": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Elementos del juego"
+    },
+    "gameInterface": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Interfaz de juego"
+    },
+    "gameWorld": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Mundo del juego"
+    },
+    "gay": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Gay",
+        "parent": "Homosexualidad"
+    },
+    "gayLoveSubplot": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Subtrama de amor gay",
+        "parent": "Gay"
+    },
+    "gayProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista gay",
+        "parent": "Gay"
+    },
+    "genderBender": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Género Bender"
+    },
+    "genderlessProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista sin género"
+    },
+    "geniusProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista genial"
+    },
+    "genocide": {
+        "category": [
+            "Disparadores"
+        ],
+        "name": "Genocide"
+    },
+    "ghosts": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Fantasmas"
+    },
+    "giantProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista gigante"
+    },
+    "giants": {
+        "category": [
+            "razas"
+        ],
+        "name": "Gigantes"
+    },
+    "girlsLove": {
+        "aliasOf": "Lesbian",
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Amor de chicas",
+        "parent": "Homosexualidad"
+    },
+    "girlsLoveSubplot": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Subtrama amorosa femenina",
+        "parent": "Lesbian"
+    },
+    "glassCannon": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Cañón de cristal"
+    },
+    "goblins": {
+        "category": [
+            "razas"
+        ],
+        "name": "Duendes"
+    },
+    "godProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Dios Protagonista"
+    },
+    "gods": {
+        "category": [
+            "razas"
+        ],
+        "name": "Dioses"
+    },
+    "goldenTwenties": {
+        "category": [
+            "Favoritos",
+            "Ajustes"
+        ],
+        "name": "Veinte años dorados"
+    },
+    "gore": {
+        "category": [
+            "Disparadores"
+        ],
+        "name": "Gore"
+    },
+    "hackers": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Hackers"
+    },
+    "halfElves": {
+        "category": [
+            "razas"
+        ],
+        "name": "Medialfos"
+    },
+    "halfHumanProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista medio humano"
+    },
+    "halflings": {
+        "category": [
+            "razas"
+        ],
+        "name": "Halflings"
+    },
+    "halfOrcs": {
+        "category": [
+            "razas"
+        ],
+        "name": "Medio Orcos"
+    },
+    "harem": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Harén"
+    },
+    "healing": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Curación"
+    },
+    "heirs": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Herederos"
+    },
+    "heists": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Atracos"
+    },
+    "hereticalTechnology": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Tecnología herética"
+    },
+    "heroicParents": {
+        "category": [
+            "Familia"
+        ],
+        "name": "Padres heroicos"
+    },
+    "hobgoblins": {
+        "category": [
+            "razas"
+        ],
+        "name": "Hobgoblins"
+    },
+    "homosexuality": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Homosexualidad",
+        "parent": "LGB"
+    },
+    "humanized": {
+        "category": [
+            "humanizado"
+        ],
+        "description": "Consiste en que personajes que antes no eran humanos, como los animales, se transforman literalmente en humanos. Ya sea como parte de la historia o del escenario general, es distinto de las meras representaciones antropomórficas.",
+        "name": "Humanizado"
+    },
+    "humanExperimentation": {
+        "category": [
+            "Experimentacion"
+        ],
+        "name": "Experimentación humana"
+    },
+    "humor": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Humor"
+    },
+    "immortality": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Inmortalidad"
+    },
+    "imperialism": {
+        "category": [
+            "Política"
+        ],
+        "name": "Imperialismo"
+    },
+    "incubi": {
+        "category": [
+            "razas"
+        ],
+        "name": "Incubi"
+    },
+    "insects": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Insectos"
+    },
+    "insectTraits": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Rasgos de los insectos"
+    },
+    "interdimensionalTravel": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Viajes interdimensionales"
+    },
+    "internet": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Internet"
+    },
+    "interplanetaryTravel": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Viajes interplanetarios"
+    },
+    "kingdomBuilding": {
+        "category": [
+            "Laboriosidad"
+        ],
+        "name": "Construcción del Reino"
+    },
+    "kingdoms": {
+        "category": [
+            "Política"
+        ],
+        "name": "Reinos"
+    },
+    "knights": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Caballeros"
+    },
+    "lawEnforcement": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Cumplimiento de la ley"
+    },
+    "lesbian": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Lesbian",
+        "parent": "Homosexualidad"
+    },
+    "lesbianLoveSubplot": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Subtrama de amor lésbico",
+        "parent": "Lesbian"
+    },
+    "lesbianProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Lesbian Protagonist",
+        "parent": "Lesbian"
+    },
+    "levelSystem": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Sistema de niveles"
+    },
+    "lgb": {
+        "category": [
+            "Temas"
+        ],
+        "name": "LGB"
+    },
+    "lgbt": {
+        "category": [
+            "Temas"
+        ],
+        "name": "LGBT+",
+        "parent": "LGB"
+    },
+    "lostTechnology": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Tecnología perdida"
+    },
+    "loveRivals": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Rivales del amor"
+    },
+    "loveTriangle": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Triángulo amoroso"
+    },
+    "magic": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Magia"
+    },
+    "magicalGirls": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Chicas mágicas"
+    },
+    "magicalTechnology": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Tecnología mágica"
+    },
+    "magicians": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Magos"
+    },
+    "maleProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista masculino"
+    },
+    "marriage": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Matrimonio"
+    },
+    "martialArts": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Artes marciales"
+    },
+    "mentalIllness": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Enfermedad mental"
+    },
+    "mercenaries": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Mercenaries"
+    },
+    "military": {
+        "category": [
+            "General"
+        ],
+        "name": "Militar"
+    },
+    "mindControl": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Control Mental"
+    },
+    "monsterBoys": {
+        "category": [
+            "razas"
+        ],
+        "name": "Chicos monstruosos"
+    },
+    "monsterGirls": {
+        "category": [
+            "razas"
+        ],
+        "name": "Chicas monstruosas"
+    },
+    "monsterProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Monstruo protagonista"
+    },
+    "monsters": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Monstruos"
+    },
+    "mortality": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Mortalidad"
+    },
+    "multiplePersonalities": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Múltiples personalidades"
+    },
+    "multipleProtagonists": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Múltiples protagonistas"
+    },
+    "murder": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Asesinato"
+    },
+    "mythologicalCreatures": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Criaturas mitológicas"
+    },
+    "navalWarfare": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Guerra naval"
+    },
+    "necromancy": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Necromancy"
+    },
+    "nobility": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Nobleza"
+    },
+    "nonHumanProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista no humano"
+    },
+    "nuclearOption": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Opción nuclear"
+    },
+    "nudity": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Desnudez"
+    },
+    "obsessiveLove": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Amor obsesivo"
+    },
+    "olderThanTheyLook": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Más viejos de lo que parecen"
+    },
+    "orcs": {
+        "category": [
+            "razas"
+        ],
+        "name": "Orcos"
+    },
+    "otomeGame": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Juego Otome"
+    },
+    "overpoweredProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista demasiado poderoso"
+    },
+    "parasites": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Parásitos"
+    },
+    "patchworkFamily": {
+        "category": [
+            "Familia"
+        ],
+        "name": "Familia Patchwork"
+    },
+    "pegasi": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Pegasi"
+    },
+    "piercings": {
+        "category": [
+            "Moda"
+        ],
+        "name": "Piercings"
+    },
+    "platonicLove": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Amor platónico"
+    },
+    "polyamory": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Poliamor"
+    },
+    "polycule": {
+        "category": [
+            "Relaciones"
+        ],
+        "parent": "Poliamor",
+        "name": "Polycule"
+    },
+    "polygamy": {
+        "category": [
+            "Relaciones"
+        ],
+        "parent": "Poliamor",
+        "name": "Poligamia"
+    },
+    "pragmaticProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista pragmático"
+    },
+    "pregnancy": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Embarazo"
+    },
+    "princes": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Príncipes"
+    },
+    "princesses": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Princesas"
+    },
+    "programming": {
+        "category": [
+            "Laboriosidad"
+        ],
+        "name": "Programación"
+    },
+    "prostitution": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Prostitución"
+    },
+    "psionics": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Psiónica"
+    },
+    "pyromancy": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Piromancia"
+    },
+    "racism": {
+        "category": [
+            "Disparadores"
+        ],
+        "name": "Racismo"
+    },
+    "rebellion": {
+        "category": [
+            "Política"
+        ],
+        "name": "Rebelión"
+    },
+    "redemption": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Redención"
+    },
+    "reincarnatedAsMonster": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Reencarnado en monstruo"
+    },
+    "reincarnatedAsObject": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Reencarnado en objeto"
+    },
+    "reincarnatedAsVillainess": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Reencarnada en villana"
+    },
+    "reincarnation": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Reencarnación"
+    },
+    "religion": {
+        "category": [
+            "Política"
+        ],
+        "name": "Religión"
+    },
+    "religiousOrganizations": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Organizaciones religiosas"
+    },
+    "resurrection": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Resurrección"
+    },
+    "retelling": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Volver a contar"
+    },
+    "revenge": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Venganza"
+    },
+    "revolution": {
+        "category": [
+            "Política"
+        ],
+        "name": "Revolución"
+    },
+    "richParents": {
+        "category": [
+            "Familia"
+        ],
+        "name": "Padres ricos"
+    },
+    "richProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista rico"
+    },
+    "righteousProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista justo"
+    },
+    "rivalry": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Rivalidad",
+        "description": "Relaciones competitivas centradas a menudo en el deseo de superar a otro individuo o grupo. Pueden oscilar entre la competencia amistosa y el antagonismo intenso."
+    },
+    "roadTrip": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Viaje por carretera"
+    },
+    "robots": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Robots"
+    },
+    "romanceSubplot": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Subtrama romántica"
+    },
+    "ruthlessProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista despiadado"
+    },
+    "sarcasticProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista sarcástico"
+    },
+    "school": {
+        "category": [
+            "Ajustes"
+        ],
+        "name": "Escuela"
+    },
+    "scientists": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Científicos"
+    },
+    "secondChance": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Segunda oportunidad"
+    },
+    "secretIdentity": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Identidad secreta"
+    },
+    "secretOrganizations": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Organizaciones secretas"
+    },
+    "secretWorld": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Mundo secreto"
+    },
+    "sex": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Sexo",
+        "description": "Discusiones o representaciones de actividades sexuales, presentadas de forma detallada pero discreta. No es lo bastante excitante para considerarse erótica ni lo bastante gráfica para ser obscena."
+    },
+    "shapeshifters": {
+        "category": [
+            "razas"
+        ],
+        "name": "Cambiaformas"
+    },
+    "sharingABody": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Compartir un cuerpo"
+    },
+    "siblingRivalry": {
+        "association": [
+            "Siblings",
+            "Family",
+            "Brother",
+            "Sister",
+            "Twin",
+            "Heirs"
+        ],
+        "category": [
+            "Familia"
+        ],
+        "name": "Rivalidad entre hermanos",
+        "parent": "Rivalidad",
+        "description": "Competencia o conflicto intenso entre hermanos, a menudo originado por celos, deseo de atención de los padres, problemas de herencia o logros diferentes. Puede variar desde una rivalidad leve hasta una animosidad profundamente arraigada."
+    },
+    "siblings": {
+        "category": [
+            "Familia"
+        ],
+        "name": "Hermanos"
+    },
+    "skills": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Habilidades"
+    },
+    "slavery": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Esclavitud"
+    },
+    "slowRomance": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Romance lento"
+    },
+    "smut": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Smut",
+        "description": "Escenas sexuales gráficas y detalladas, que hacen hincapié en el placer físico por encima de las conexiones emocionales o románticas, y que a menudo satisfacen diversas fantasías y deseos."
+    },
+    "socialism": {
+        "category": [
+            "Política"
+        ],
+        "name": "Socialismo"
+    },
+    "spaceBattles": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Batallas espaciales"
+    },
+    "spaceships": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Naves espaciales"
+    },
+    "specialAbilities": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Habilidades especiales"
+    },
+    "specialForces": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Fuerzas Especiales"
+    },
+    "specialSenses": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Sentidos especiales"
+    },
+    "spirits": {
+        "category": [
+            "razas"
+        ],
+        "name": "Espíritus"
+    },
+    "stateBuilding": {
+        "category": [
+            "Laboriosidad"
+        ],
+        "name": "Edificio estatal"
+    },
+    "streetGangs": {
+        "category": [
+            "Sociedad"
+        ],
+        "name": "Bandas callejeras"
+    },
+    "submarines": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Submarinos"
+    },
+    "succubi": {
+        "category": [
+            "razas"
+        ],
+        "name": "Súcubos"
+    },
+    "summonedHero": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Héroe convocado"
+    },
+    "tabletopRpg": {
+        "category": [
+            "Favoritos"
+        ],
+        "name": "Juego de rol de mesa"
+    },
+    "tattoos": {
+        "category": [
+            "Moda"
+        ],
+        "name": "Tatuajes"
+    },
+    "technologicalAdvancement": {
+        "category": [
+            "Laboriosidad"
+        ],
+        "name": "Avances tecnológicos"
+    },
+    "tentacles": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Tentáculos"
+    },
+    "terrorism": {
+        "category": [
+            "Política"
+        ],
+        "name": "Terrorismo"
+    },
+    "timeLoop": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Bucle temporal"
+    },
+    "timeSkip": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Salto temporal"
+    },
+    "timeTravel": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Viaje en el tiempo"
+    },
+    "torture": {
+        "category": [
+            "Disparadores"
+        ],
+        "name": "Tortura"
+    },
+    "tournaments": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Torneos"
+    },
+    "training": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Formación"
+    },
+    "transgender": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Transgénero",
+        "parent": "LGBT+"
+    },
+    "transgenderLoveSubplot": {
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Subtrama amorosa transgénero",
+        "parent": "Transgénero"
+    },
+    "transgenderProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista transexual",
+        "parent": "Transgénero"
+    },
+    "transitionToFemale": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Transición a la mujer",
+        "parent": "Transgénero"
+    },
+    "transitionToMale": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "Transición al sexo masculino",
+        "parent": "Transgénero"
+    },
+    "transmigration": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Transmigración"
+    },
+    "travel": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Viajar"
+    },
+    "twins": {
+        "category": [
+            "Familia"
+        ],
+        "name": "Gemelos"
+    },
+    "undead": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "No muertos"
+    },
+    "unicorns": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Unicornios"
+    },
+    "utopian": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Utópico"
+    },
+    "vampires": {
+        "category": [
+            "razas"
+        ],
+        "name": "Vampiros"
+    },
+    "victorianEra": {
+        "category": [
+            "Favoritos",
+            "Ajustes"
+        ],
+        "name": "Época victoriana"
+    },
+    "villainProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Villano Protagonista"
+    },
+    "violence": {
+        "category": [
+            "Disparadores"
+        ],
+        "name": "Violencia"
+    },
+    "virtualReality": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Realidad virtual"
+    },
+    "war": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Guerra"
+    },
+    "warfare": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Guerra",
+        "parent": "Guerra"
+    },
+    "warships": {
+        "category": [
+            "Tecnología"
+        ],
+        "name": "Buques de guerra"
+    },
+    "weakProtagonist": {
+        "category": [
+            "Protagonista"
+        ],
+        "name": "Protagonista débil"
+    },
+    "weakToStrong": {
+        "category": [
+            "Personajes"
+        ],
+        "name": "De débil a fuerte"
+    },
+    "weirdScience": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Ciencia extraña"
+    },
+    "werebeasts": {
+        "category": [
+            "razas"
+        ],
+        "name": "Werebeasts"
+    },
+    "werewolves": {
+        "category": [
+            "razas"
+        ],
+        "name": "Hombres lobo"
+    },
+    "wholesome": {
+        "category": [
+            "Temas"
+        ],
+        "name": "Saludable"
+    },
+    "witches": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Brujas"
+    },
+    "wizards": {
+        "category": [
+            "Profesiones"
+        ],
+        "name": "Magos"
+    },
+    "workingLife": {
+        "category": [
+            "Moda"
+        ],
+        "name": "Vida laboral"
+    },
+    "worldWar": {
+        "category": [
+            "Conflictos"
+        ],
+        "name": "Guerra Mundial",
+        "parent": "Guerra"
+    },
+    "xenomorphs": {
+        "category": [
+            "Criaturas"
+        ],
+        "name": "Xenomorfos"
+    },
+    "yaoi": {
+        "aliasOf": "Gay",
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Yaoi",
+        "parent": "Homosexualidad"
+    },
+    "youngerThanTheyLook": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "Más jóvenes de lo que parecen"
+    },
+    "yuri": {
+        "aliasOf": "Lesbian",
+        "category": [
+            "Relaciones"
+        ],
+        "name": "Yuri",
+        "parent": "Homosexualidad"
+    },
+    "zeroToHero": {
+        "category": [
+            "Tropos"
+        ],
+        "name": "De cero a héroe"
+    }
+}

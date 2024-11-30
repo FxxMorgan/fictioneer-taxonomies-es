@@ -1,0 +1,279 @@
+{
+    "action": {
+        "name": "Acción"
+    },
+    "adventure": {
+        "name": "Aventura"
+    },
+    "alternateUniverse": {
+        "name": "Universo alternativo"
+    },
+    "anthology": {
+        "name": "Antología"
+    },
+    "apocalyptic": {
+        "name": "Apocalíptico"
+    },
+    "atompunk": {
+        "name": "Atompunk",
+        "parent": "Ciencia Ficcion"
+    },
+    "biography": {
+        "name": "Biografía"
+    },
+    "biopunk": {
+        "name": "Biopunk",
+        "parent": "Ciencia Ficcion"
+    },
+    "bisexual": {
+        "name": "Bisexual",
+        "parent": "LGB"
+    },
+    "bodyHorror": {
+        "name": "Horror corporal",
+        "parent": "Horror"
+    },
+    "boysLove": {
+        "name": "Boys Love",
+        "parent": "LGB",
+        "aliasOf": "Gay"
+    },
+    "cassetteFuturism": {
+        "name": "Retro Futurismo",
+        "parent": "Ciencia Ficcion"
+    },
+    "children": {
+        "name": "Infantil"
+    },
+    "comedy": {
+        "name": "Comedia"
+    },
+    "contemporary": {
+        "name": "Contemporáneo"
+    },
+    "cosmicHorror": {
+        "name": "Horror cósmico",
+        "parent": "Horror"
+    },
+    "crime": {
+        "name": "Delito"
+    },
+    "crossover": {
+        "name": "Cruce"
+    },
+    "cyberpunk": {
+        "name": "Cyberpunk",
+        "parent": "Ciencia Ficcion"
+    },
+    "detective": {
+        "name": "Detective"
+    },
+    "dieselpunk": {
+        "name": "Dieselpunk",
+        "parent": "Ciencia Ficcion"
+    },
+    "drama": {
+        "name": "Drama"
+    },
+    "dungeon": {
+        "name": "Mazmorra"
+    },
+    "erotica": {
+        "name": "Erótico",
+        "description": "Narrativas centradas principalmente en estimular la excitación sexual y el deseo romántico. Caracterizada por escenas y temas sexuales explícitos, la erótica se adentra en experiencias íntimas y sensuales, a menudo con énfasis en las conexiones emocionales."
+    },
+    "espionage": {
+        "name": "Espionaje"
+    },
+    "fantasy": {
+        "name": "Fantasía"
+    },
+    "gameLit": {
+        "name": "GameLit"
+    },
+    "gay": {
+        "name": "Gay",
+        "parent": "LGB"
+    },
+    "girlslove": {
+        "name": "Amor de chicas",
+        "parent": "LGB",
+        "aliasOf": "Lesbian"
+    },
+    "gothic": {
+        "name": "Gótico"
+    },
+    "grimdark": {
+        "name": "Grimdark"
+    },
+    "harem": {
+        "name": "Harén"
+    },
+    "highFantasy": {
+        "name": "Alta fantasía",
+        "parent": "Fantasia"
+    },
+    "historical": {
+        "name": "Histórico"
+    },
+    "horror": {
+        "name": "Horror"
+    },
+    "isekai": {
+        "name": "Isekai"
+    },
+    "lesbian": {
+        "name": "Lesbian",
+        "parent": "LGB"
+    },
+    "lgb": {
+        "name": "LGB"
+    },
+    "lgbt": {
+        "name": "LGBT+",
+        "parent": "LGB"
+    },
+    "litRpg": {
+        "name": "LitRPG"
+    },
+    "lowFantasy": {
+        "name": "Fantasía baja",
+        "parent": "Fantasia"
+    },
+    "lunarpunk": {
+        "name": "Lunarpunk",
+        "parent": "Ciencia Ficcion"
+    },
+    "magicalRealism": {
+        "name": "Realismo mágico"
+    },
+    "mecha": {
+        "name": "Mecha"
+    },
+    "military": {
+        "name": "Militar"
+    },
+    "music": {
+        "name": "Música"
+    },
+    "mystery": {
+        "name": "Misterio"
+    },
+    "nanopunk": {
+        "name": "Nanopunk",
+        "parent": "Ciencia Ficcion"
+    },
+    "noir": {
+        "name": "Negro",
+        "parent": "Crimen"
+    },
+    "nonHuman": {
+        "name": "No humanos"
+    },
+    "nonfiction": {
+        "name": "No ficción"
+    },
+    "philosophy": {
+        "name": "Filosofía"
+    },
+    "poetry": {
+        "name": "Poesía"
+    },
+    "postApocalyptic": {
+        "name": "Post Apocalíptico",
+        "parent": "Apocaliptico"
+    },
+    "psychological": {
+        "name": "Psicológico"
+    },
+    "raypunk": {
+        "name": "Raypunk",
+        "parent": "Ciencia Ficcion"
+    },
+    "romance": {
+        "name": "Romance"
+    },
+    "satire": {
+        "name": "Sátira"
+    },
+    "schoolLife": {
+        "name": "Vida escolar"
+    },
+    "scienceFiction": {
+        "name": "Ciencia ficción"
+    },
+    "sex": {
+        "name": "Sexo",
+        "description": "Narrativas con un contenido sexual significativo, con un equilibrio entre la explicitud y la sutileza. Exploran temas sexuales de forma detallada pero discreta, más allá del acto en sí."
+    },
+    "shortStory": {
+        "name": "Relato corto"
+    },
+    "sliceOfLife": {
+        "name": "Un trozo de vida"
+    },
+    "smut": {
+        "name": "Smut",
+        "description": "Muy centrado en el contenido sexual explícito, con un enfoque principal en la gratificación física más que en el desarrollo emocional o romántico. Suele incluir escenas sexuales detalladas y gráficas, que satisfacen diversas fantasías y deseos."
+    },
+    "space": {
+        "name": "Espacio"
+    },
+    "spaceOpera": {
+        "name": "Ópera espacial",
+        "parent": "Espacio"
+    },
+    "sports": {
+        "name": "Deportes"
+    },
+    "steampunk": {
+        "name": "Steampunk",
+        "parent": "Ciencia Ficcion"
+    },
+    "suicideSelfHarm": {
+        "name": "Suicidio / autolesión"
+    },
+    "superheroes": {
+        "name": "Superhéroes"
+    },
+    "supernatural": {
+        "name": "Sobrenatural"
+    },
+    "survival": {
+        "name": "Supervivencia"
+    },
+    "thriller": {
+        "name": "Thriller"
+    },
+    "tragedy": {
+        "name": "Tragedia"
+    },
+    "transgender": {
+        "name": "Transgénero",
+        "parent": "LGBT+"
+    },
+    "trueCrime": {
+        "name": "Crimen real",
+        "parent": "Crimen"
+    },
+    "urbanFantasy": {
+        "name": "Fantasía urbana",
+        "parent": "Fantasia"
+    },
+    "western": {
+        "name": "Occidental"
+    },
+    "whalepunk": {
+        "name": "Whalepunk",
+        "parent": "Ciencia Ficcion"
+    },
+    "wuxia": {
+        "name": "Wuxia"
+    },
+    "xianxia": {
+        "name": "Xianxia"
+    },
+    "zombie": {
+        "name": "Zombie"
+    }
+}
